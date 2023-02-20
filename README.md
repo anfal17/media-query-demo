@@ -9,23 +9,24 @@ Link to page <b> --> https://anfal17.github.io/media-query-demo/ </b>
 <li>Mobile Screens : 425px </li>
 </ul>
 <br><br>
-<b>Frame 1 Screen size greater then 1440px</b>
-![image](https://user-images.githubusercontent.com/92685449/220175089-dde0432d-d438-4d40-90e6-593e040b1ac0.png)
+<b>Frame 1 Screen size greater then 1440px </b> <br>
+![image](https://user-images.githubusercontent.com/92685449/220175572-34ca3436-62a2-47e4-b272-762bbf8084ee.png)
+
 
 <br><br>
-<b>Frame 2 Screen size between 1024px and 1440px</b>
+<b>Frame 2 Screen size between 1024px and 1440px</b> <br>
 ![image](https://user-images.githubusercontent.com/92685449/220175182-46944722-72ac-449d-88e1-0265b36156b3.png)
 
 <br><br>
-<b>Frame 3 Screen size between 768px and 1024px</b>
+<b>Frame 3 Screen size between 768px and 1024px</b> <br>
 ![image](https://user-images.githubusercontent.com/92685449/220175256-0c4711bb-7071-4de7-a8fe-c4472f5080ad.png)
 
 <br><br>
-<b>Frame 4 Screen size between 425px and 768px</b>
+<b>Frame 4 Screen size between 425px and 768px</b> <br>
 ![image](https://user-images.githubusercontent.com/92685449/220175386-4abd8ef5-85ea-4f3a-bc7a-acfdc3e31cad.png)
 
 <br><br>
-<b>Frame 5 Screen size between 0px and 425px</b>
+<b>Frame 5 Screen size between 0px and 425px</b> <br>
 ![image](https://user-images.githubusercontent.com/92685449/220175378-ec2e1529-9985-4265-90ba-4cb34bbaa24e.png)
 
 
