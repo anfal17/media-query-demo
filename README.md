@@ -8,9 +8,10 @@ Link to page <b> --> https://anfal17.github.io/media-query-demo/ </b>
 <li>Tablet Screens : 768px </li>
 <li>Mobile Screens : 425px </li>
 </ul>
+
 <br><br>
-<b>Frame 1 Screen size greater then 1440px </b> <br>
-![image](https://user-images.githubusercontent.com/92685449/220175572-34ca3436-62a2-47e4-b272-762bbf8084ee.png)
+<b>Frame 1 Screen size greater then 1440px</b> <br>
+![image](https://user-images.githubusercontent.com/92685449/220176279-59e925eb-f808-430f-aa6d-b14af763461f.png)
 
 
 <br><br>
