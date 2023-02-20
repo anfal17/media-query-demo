@@ -15,19 +15,19 @@ Link to page <b> --> https://anfal17.github.io/media-query-demo/ </b>
 
 
 <br><br>
-<b>Frame 2 Screen size between 1024px and 1440px</b> <br>
+<b><h2>Frame 2 Screen size between 1024px and 1440px</h2></b> <br>
 ![image](https://user-images.githubusercontent.com/92685449/220175182-46944722-72ac-449d-88e1-0265b36156b3.png)
 
 <br><br>
-<b>Frame 3 Screen size between 768px and 1024px</b> <br>
+<b><h2>Frame 3 Screen size between 768px and 1024px</h2></b> <br>
 ![image](https://user-images.githubusercontent.com/92685449/220175256-0c4711bb-7071-4de7-a8fe-c4472f5080ad.png)
 
 <br><br>
-<b>Frame 4 Screen size between 425px and 768px</b> <br>
+<b><h2>Frame 4 Screen size between 425px and 768px</h2></b> <br>
 ![image](https://user-images.githubusercontent.com/92685449/220175386-4abd8ef5-85ea-4f3a-bc7a-acfdc3e31cad.png)
 
 <br><br>
-<b>Frame 5 Screen size between 0px and 425px</b> <br>
+<b><h2>Frame 5 Screen size between 0px and 425px</h2></b> <br>
 ![image](https://user-images.githubusercontent.com/92685449/220175378-ec2e1529-9985-4265-90ba-4cb34bbaa24e.png)
 
 
