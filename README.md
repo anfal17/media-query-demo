@@ -10,7 +10,7 @@ Link to page <b> --> https://anfal17.github.io/media-query-demo/ </b>
 </ul>
 
 <br><br>
-<b>Frame 1 Screen size greater then 1440px</b> <br>
+<b> <h2>Frame 1 Screen size greater then 1440px </h2></b> <br>
 ![image](https://user-images.githubusercontent.com/92685449/220176279-59e925eb-f808-430f-aa6d-b14af763461f.png)
 
 
