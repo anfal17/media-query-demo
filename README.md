@@ -1,6 +1,7 @@
 ﻿# media-query-demo
-Learnt how to wite media Quiries for different screen sizes<br>
+Learnt how to wite media Queries for different screen sizes<br>
 Here we have written media query for 4 different screen sizes<br>
+Link to page <b> --> https://anfal17.github.io/media-query-demo/ </b> 
 <ul>
 <li>Laptop Screens : 1440px </li>
 <li>Normal Screens : 1240px </li>
@@ -9,18 +10,23 @@ Here we have written media query for 4 different screen sizes<br>
 </ul>
 <br><br>
 <b>Frame 1 Screen size greater then 1440px</b>
+![image](https://user-images.githubusercontent.com/92685449/220175089-dde0432d-d438-4d40-90e6-593e040b1ac0.png)
 
 <br><br>
 <b>Frame 2 Screen size between 1024px and 1440px</b>
+![image](https://user-images.githubusercontent.com/92685449/220175182-46944722-72ac-449d-88e1-0265b36156b3.png)
 
 <br><br>
 <b>Frame 3 Screen size between 768px and 1024px</b>
+![image](https://user-images.githubusercontent.com/92685449/220175256-0c4711bb-7071-4de7-a8fe-c4472f5080ad.png)
 
 <br><br>
 <b>Frame 4 Screen size between 425px and 768px</b>
+![image](https://user-images.githubusercontent.com/92685449/220175386-4abd8ef5-85ea-4f3a-bc7a-acfdc3e31cad.png)
 
 <br><br>
 <b>Frame 5 Screen size between 0px and 425px</b>
+![image](https://user-images.githubusercontent.com/92685449/220175378-ec2e1529-9985-4265-90ba-4cb34bbaa24e.png)
 
 
 
